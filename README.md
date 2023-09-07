@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Basepy
 - 👀 I’m interested in Bitcoin and lightning 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Basebot 
 
 
